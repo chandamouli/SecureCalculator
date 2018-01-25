@@ -1,3 +1,4 @@
+package Operations;
 public interface ICalculateOperation {
 	public int getResult(int[] Operands);
 

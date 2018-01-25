@@ -1,3 +1,4 @@
+package Operations;
 public class Subtraction implements ICalculateOperation {
 	public int getResult(int[] Operands) {
 		int result;

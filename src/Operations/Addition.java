@@ -1,4 +1,5 @@
-public  class Addition1 implements ICalculateOperation {
+package Operations;
+public  class Addition implements ICalculateOperation {
 	public int getResult(int[] Operands) {
 		int result;
 		result = Operands[0] + Operands[1];
